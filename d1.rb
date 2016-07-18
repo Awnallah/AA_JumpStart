@@ -1,4 +1,4 @@
-require 'byebug'
+
 
 def hello_world
 	num =0
